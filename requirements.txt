@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+pandas==2.0.3
+selenium==4.10.0
+lxml==4.9.3
+spacy==3.6.1
+nltk==3.8.1
+notebook==7.0.3
+scrapy==2.11.0
